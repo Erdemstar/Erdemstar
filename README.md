@@ -2,7 +2,6 @@
 
 ### I develop myself about Application Security and Software Development topics.
 
-[![GitHub](https://img.shields.io/badge/GitHub-erdemstar-black)](https://github.com/erdemstar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-erdemstar-blue)](https://www.linkedin.com/in/erdemyildiz/)
 
 ## GitHub Stats
