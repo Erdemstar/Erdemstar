@@ -15,10 +15,7 @@
 	
  ```
 
- 
-## Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=erdemstar&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=erdemstar&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdemstar&layout=compact&theme=github_dark"/>|
+<p align="center">
+	<img src="https://github.com/TekyaygilFethi/TekyaygilFethi/blob/output/github-contribution-grid-snake.svg">
+</p>
 
