@@ -1,17 +1,19 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
-## Who am I?
+## Whoami
 
  ```python
-  class WhoAmI:
-    username = "Erdemstar"
-    purporse = "Improve Security and Development Skills for catch bug or create something which is helpfull for people"
+  class Whoami:
+  
+   nickname = "Erdemstar"
+   purporse = "improve security and development skill to find gap or create something which is helpful for people"
 	
 	def getLocation():
 		return "Turkey";
 	
-	def Ambitions():
-		return ["learning","developing","find bug"]
+	def ambitions():
+		return ["learn","develop","build","explore"]
+		
 	
  ```
 
